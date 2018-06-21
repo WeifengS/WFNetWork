@@ -1,3 +1,3 @@
 # WFNetork
-继续AFNet封装的网络请求
+基于AFNet3.0封装的网络请求
 带缓存
